@@ -1,1 +1,1 @@
-# dajun_github_notes_1
+used to save dajun's all kinds of notes on github.
